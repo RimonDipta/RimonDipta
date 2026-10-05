@@ -177,7 +177,7 @@ A modern dashboard for tracking financial data and visualizing important metrics
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RimonDipta&bg_color=0f172a&color=94a3b8&line=60a5fa&point=ffffff&area=true&hide_border=true" width="100%" />
+[![Rimon's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RimonDipta&bg_color=0f172a&color=94a3b8&line=60a5fa&point=ffffff&area=true&hide_border=true)](https://github.com/RimonDipta)
 
 </div>
 
