@@ -27,17 +27,29 @@ Currently learning, building real-world projects, and continuously improving as 
 
 ### Stack
 
-**Frontend**  
-React · Next.js · TypeScript · Tailwind CSS
+**Frontend**
 
-**Backend**  
-Node.js · Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+</p>
 
-**Database**  
-MongoDB · PostgreSQL · Prisma
+**Backend**
 
-**Tools**  
-Git · GitHub · Docker · VS Code
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+**Database**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma" />
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman" />
+</p>
 
 ### Currently
 
