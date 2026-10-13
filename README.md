@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://rimondipta.netlify.app/">Portfolio</a>
   &nbsp;•&nbsp;
-  <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/rimondipta/">LinkedIn</a>
   &nbsp;•&nbsp;
   <a href="https://github.com/RimonDipta">GitHub</a>
 </p>
